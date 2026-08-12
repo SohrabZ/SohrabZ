@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sohrab Sheikhani
+# Hi 👋, I'm Sohrab Sheikhani
 
 ### Co-Founder & CTO at [Aloware](https://aloware.com)
 
