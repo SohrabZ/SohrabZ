@@ -12,8 +12,6 @@ I built the team, the architecture, and most of the early code. I still write th
 
 </div>
 
----
-
 ## What I Lead
 
 **[Aloware](https://aloware.com)** is a cloud contact center for revenue teams. Calling, texting, and AI voice agents, native inside HubSpot and other CRMs. I own the technical direction end to end: telephony, media, AI, and the platform underneath.
@@ -24,8 +22,6 @@ I built the team, the architecture, and most of the early code. I still write th
 - 🔌 **First AI-driven phone system fully embedded in HubSpot** (2024)
 - 🌎 **Distributed engineering org** across the US, LATAM, and Europe. Remote since day one
 
----
-
 ## How I Work
 
 - 🧭 **Hands-on CTO.** I set architecture, review code, and take on-call. Titles don't exempt anyone from the terminal.
@@ -34,15 +30,11 @@ I built the team, the architecture, and most of the early code. I still write th
 - 📊 **Ship, measure, cut.** Most features should be deleted. The trick is finding out fast.
 - 🧪 **Bet early on new primitives.** Real-time voice AI, LLM agents, and MCP were all side projects here before they were roadmap items.
 
----
-
 ## Open Source from Aloware
 
 | Project | What it is |
 | --- | --- |
 | [livekit-plugins-dtln](https://github.com/aloware/livekit-plugins-dtln) | Self-hosted noise cancellation for LiveKit. In-process ONNX inference, ~8ms latency, no cloud calls, MIT licensed. A free alternative to LiveKit Cloud + Krisp. [`pip install livekit-plugins-dtln`](https://pypi.org/project/livekit-plugins-dtln/) |
-
----
 
 ## Still Shipping
 
@@ -55,8 +47,6 @@ Nights and weekends I build small things end to end. It keeps my judgment calibr
 | [liquid-glass-skills](https://github.com/SohrabZ/liquid-glass-skills) | Agent skills for building iOS 26 Liquid Glass UIs with SwiftUI + UIKit |
 | [stock-tracker](https://github.com/SohrabZ/stock-tracker) | CLI stock trend monitor in Go. Trend/volume signals, position P&L, cron-friendly |
 | [buzz-agent-teams](https://github.com/SohrabZ/buzz-agent-teams) | Two ready-to-import agent teams for Buzz: a standing Hive and a disposable Swarm |
-
----
 
 ## Tech I Reach For
 
