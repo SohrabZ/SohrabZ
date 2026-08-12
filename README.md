@@ -89,12 +89,6 @@ Nights and weekends I build small things end to end. It keeps my judgment calibr
 
 ## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sohrabz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://twitter.com/_sohrabz_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="X / Twitter" /></a>&nbsp;
-  <a href="https://github.com/SohrabZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
-</p>
-
 - 💼 LinkedIn: https://www.linkedin.com/in/sohrabz/
 - 🐦 X/Twitter: https://twitter.com/_sohrabz_
 - 💻 GitHub: https://github.com/SohrabZ
