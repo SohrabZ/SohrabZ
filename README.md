@@ -17,7 +17,7 @@ I built the team, the architecture, and most of the early code. I still write th
 **[Aloware](https://aloware.com)** is a cloud contact center for revenue teams. Calling, texting, and AI voice agents, native inside HubSpot and other CRMs. I own the technical direction end to end: telephony, media, AI, and the platform underneath.
 
 - 🏗️ **Co-founded in 2017**, bootstrapped to profitability. Pre-Series A and cash-flow positive
-- 📞 **1,000+ sales teams** running their daily call and SMS volume on the platform
+- 📞 **1,000+ companies** running their daily call and SMS volume on the platform
 - 🤖 **AI-first since 2023**: SMS bots, autonomous voice agents, and AI receptionists in production
 - 🌎 **Distributed engineering org** across the US, LATAM, and Europe. Remote since day one
 
