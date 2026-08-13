@@ -6,7 +6,7 @@
 
 **San Diego, CA**
 
-I co-founded [Aloware](https://aloware.com) in 2017 and have led its engineering ever since, taking it from a call-tracking tool to an **AI-driven phone system embedded in the CRM**, now used by **1,000+ sales teams**.
+I co-founded [Aloware](https://aloware.com) in 2017 and have led its engineering ever since, taking it from a call-tracking tool to an **AI-driven phone system embedded in the CRM**, now used by **1,000+ companies**.
 
 I built the team, the architecture, and most of the early code. I still write the code.
 
