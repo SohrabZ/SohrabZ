@@ -19,7 +19,6 @@ I built the team, the architecture, and most of the early code. I still write th
 - 🏗️ **Co-founded in 2017**, bootstrapped to profitability. Pre-Series A and cash-flow positive
 - 📞 **1,000+ sales teams** running their daily call and SMS volume on the platform
 - 🤖 **AI-first since 2023**: SMS bots, autonomous voice agents, and AI receptionists in production
-- 🔌 **First AI-driven phone system fully embedded in HubSpot** (2024)
 - 🌎 **Distributed engineering org** across the US, LATAM, and Europe. Remote since day one
 
 ## How I Work
